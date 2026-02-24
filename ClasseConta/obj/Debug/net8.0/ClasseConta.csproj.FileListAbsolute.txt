@@ -1,0 +1,15 @@
+C:\Users\aluno\Desktop\POO---2026-1\ClasseConta\bin\Debug\net8.0\ClasseConta.exe
+C:\Users\aluno\Desktop\POO---2026-1\ClasseConta\bin\Debug\net8.0\ClasseConta.deps.json
+C:\Users\aluno\Desktop\POO---2026-1\ClasseConta\bin\Debug\net8.0\ClasseConta.runtimeconfig.json
+C:\Users\aluno\Desktop\POO---2026-1\ClasseConta\bin\Debug\net8.0\ClasseConta.dll
+C:\Users\aluno\Desktop\POO---2026-1\ClasseConta\bin\Debug\net8.0\ClasseConta.pdb
+C:\Users\aluno\Desktop\POO---2026-1\ClasseConta\obj\Debug\net8.0\ClasseConta.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aluno\Desktop\POO---2026-1\ClasseConta\obj\Debug\net8.0\ClasseConta.AssemblyInfoInputs.cache
+C:\Users\aluno\Desktop\POO---2026-1\ClasseConta\obj\Debug\net8.0\ClasseConta.AssemblyInfo.cs
+C:\Users\aluno\Desktop\POO---2026-1\ClasseConta\obj\Debug\net8.0\ClasseConta.csproj.CoreCompileInputs.cache
+C:\Users\aluno\Desktop\POO---2026-1\ClasseConta\obj\Debug\net8.0\ClasseConta.sourcelink.json
+C:\Users\aluno\Desktop\POO---2026-1\ClasseConta\obj\Debug\net8.0\ClasseConta.dll
+C:\Users\aluno\Desktop\POO---2026-1\ClasseConta\obj\Debug\net8.0\refint\ClasseConta.dll
+C:\Users\aluno\Desktop\POO---2026-1\ClasseConta\obj\Debug\net8.0\ClasseConta.pdb
+C:\Users\aluno\Desktop\POO---2026-1\ClasseConta\obj\Debug\net8.0\ClasseConta.genruntimeconfig.cache
+C:\Users\aluno\Desktop\POO---2026-1\ClasseConta\obj\Debug\net8.0\ref\ClasseConta.dll
