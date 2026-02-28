@@ -12,5 +12,12 @@ internal class Program
         c1.MostrarAtributos();
         Conta c2 = new Conta();
         c2.MostrarAtributos();
+        c2.Depositar(500);
+        c2.MostrarAtributos();
+        Console.Write("Digite o numero da conta: ");
+        c2.numero = Convert.ToInt32(Console.ReadLine());
+        Console.Write("Digite titular da conta: ");
+        c2.titular = Console.ReadLine();
+        c2.MostrarAtributos();
     }
 }

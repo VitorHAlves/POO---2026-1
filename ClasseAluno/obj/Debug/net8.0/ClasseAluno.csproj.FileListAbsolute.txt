@@ -1,0 +1,15 @@
+C:\Users\aluno\Desktop\POO---2026-1\ClasseAluno\obj\Debug\net8.0\ClasseAluno.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aluno\Desktop\POO---2026-1\ClasseAluno\obj\Debug\net8.0\ClasseAluno.AssemblyInfoInputs.cache
+C:\Users\aluno\Desktop\POO---2026-1\ClasseAluno\obj\Debug\net8.0\ClasseAluno.AssemblyInfo.cs
+C:\Users\aluno\Desktop\POO---2026-1\ClasseAluno\obj\Debug\net8.0\ClasseAluno.csproj.CoreCompileInputs.cache
+C:\Users\aluno\Desktop\POO---2026-1\ClasseAluno\obj\Debug\net8.0\ClasseAluno.sourcelink.json
+C:\Users\aluno\Desktop\POO---2026-1\ClasseAluno\bin\Debug\net8.0\ClasseAluno.exe
+C:\Users\aluno\Desktop\POO---2026-1\ClasseAluno\bin\Debug\net8.0\ClasseAluno.deps.json
+C:\Users\aluno\Desktop\POO---2026-1\ClasseAluno\bin\Debug\net8.0\ClasseAluno.runtimeconfig.json
+C:\Users\aluno\Desktop\POO---2026-1\ClasseAluno\bin\Debug\net8.0\ClasseAluno.dll
+C:\Users\aluno\Desktop\POO---2026-1\ClasseAluno\bin\Debug\net8.0\ClasseAluno.pdb
+C:\Users\aluno\Desktop\POO---2026-1\ClasseAluno\obj\Debug\net8.0\ClasseAluno.dll
+C:\Users\aluno\Desktop\POO---2026-1\ClasseAluno\obj\Debug\net8.0\refint\ClasseAluno.dll
+C:\Users\aluno\Desktop\POO---2026-1\ClasseAluno\obj\Debug\net8.0\ClasseAluno.pdb
+C:\Users\aluno\Desktop\POO---2026-1\ClasseAluno\obj\Debug\net8.0\ClasseAluno.genruntimeconfig.cache
+C:\Users\aluno\Desktop\POO---2026-1\ClasseAluno\obj\Debug\net8.0\ref\ClasseAluno.dll

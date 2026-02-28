@@ -17,9 +17,9 @@ namespace ClasseConta
         {
             saldo -= valor;
         }
-        public void Depositar()
+        public void Depositar(double valorDeposito)
         {
-
+            saldo += valorDeposito;
         }
         public void MostrarAtributos()
         {
