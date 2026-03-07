@@ -1,0 +1,15 @@
+/home/vitor/POO---2026-1/ClasseProduto/bin/Debug/net10.0/ClasseProduto
+/home/vitor/POO---2026-1/ClasseProduto/bin/Debug/net10.0/ClasseProduto.deps.json
+/home/vitor/POO---2026-1/ClasseProduto/bin/Debug/net10.0/ClasseProduto.runtimeconfig.json
+/home/vitor/POO---2026-1/ClasseProduto/bin/Debug/net10.0/ClasseProduto.dll
+/home/vitor/POO---2026-1/ClasseProduto/bin/Debug/net10.0/ClasseProduto.pdb
+/home/vitor/POO---2026-1/ClasseProduto/obj/Debug/net10.0/ClasseProduto.GeneratedMSBuildEditorConfig.editorconfig
+/home/vitor/POO---2026-1/ClasseProduto/obj/Debug/net10.0/ClasseProduto.AssemblyInfoInputs.cache
+/home/vitor/POO---2026-1/ClasseProduto/obj/Debug/net10.0/ClasseProduto.AssemblyInfo.cs
+/home/vitor/POO---2026-1/ClasseProduto/obj/Debug/net10.0/ClasseProduto.csproj.CoreCompileInputs.cache
+/home/vitor/POO---2026-1/ClasseProduto/obj/Debug/net10.0/ClasseProduto.sourcelink.json
+/home/vitor/POO---2026-1/ClasseProduto/obj/Debug/net10.0/ClasseProduto.dll
+/home/vitor/POO---2026-1/ClasseProduto/obj/Debug/net10.0/refint/ClasseProduto.dll
+/home/vitor/POO---2026-1/ClasseProduto/obj/Debug/net10.0/ClasseProduto.pdb
+/home/vitor/POO---2026-1/ClasseProduto/obj/Debug/net10.0/ClasseProduto.genruntimeconfig.cache
+/home/vitor/POO---2026-1/ClasseProduto/obj/Debug/net10.0/ref/ClasseProduto.dll
