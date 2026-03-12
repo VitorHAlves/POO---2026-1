@@ -1,0 +1,15 @@
+/home/vitor/POO---2026-1/ClasseEstudante/obj/Debug/net10.0/ClasseEstudante.GeneratedMSBuildEditorConfig.editorconfig
+/home/vitor/POO---2026-1/ClasseEstudante/obj/Debug/net10.0/ClasseEstudante.AssemblyInfoInputs.cache
+/home/vitor/POO---2026-1/ClasseEstudante/obj/Debug/net10.0/ClasseEstudante.AssemblyInfo.cs
+/home/vitor/POO---2026-1/ClasseEstudante/obj/Debug/net10.0/ClasseEstudante.csproj.CoreCompileInputs.cache
+/home/vitor/POO---2026-1/ClasseEstudante/obj/Debug/net10.0/ClasseEstudante.sourcelink.json
+/home/vitor/POO---2026-1/ClasseEstudante/bin/Debug/net10.0/ClasseEstudante
+/home/vitor/POO---2026-1/ClasseEstudante/bin/Debug/net10.0/ClasseEstudante.deps.json
+/home/vitor/POO---2026-1/ClasseEstudante/bin/Debug/net10.0/ClasseEstudante.runtimeconfig.json
+/home/vitor/POO---2026-1/ClasseEstudante/bin/Debug/net10.0/ClasseEstudante.dll
+/home/vitor/POO---2026-1/ClasseEstudante/bin/Debug/net10.0/ClasseEstudante.pdb
+/home/vitor/POO---2026-1/ClasseEstudante/obj/Debug/net10.0/ClasseEstudante.dll
+/home/vitor/POO---2026-1/ClasseEstudante/obj/Debug/net10.0/refint/ClasseEstudante.dll
+/home/vitor/POO---2026-1/ClasseEstudante/obj/Debug/net10.0/ClasseEstudante.pdb
+/home/vitor/POO---2026-1/ClasseEstudante/obj/Debug/net10.0/ClasseEstudante.genruntimeconfig.cache
+/home/vitor/POO---2026-1/ClasseEstudante/obj/Debug/net10.0/ref/ClasseEstudante.dll
