@@ -8,20 +8,20 @@ namespace ClasseEstudante
     public class Estudante
     {
         private string? nome;
-        private double nota;
+        private double media;
 
-        public double Nota
+        public double Media
         {
             set
             {
                 if (value >= 0 && value <= 10)
-                    this.nota = value;
+                    this.media = value;
                 else
-                    Console.WriteLine("Nota inválida informada.");
+                    Console.WriteLine("Média inválida informada.");
             }
             get
             {
-                return this.nota;
+                return this.media;
             }
         }
         public string Nome
@@ -38,7 +38,7 @@ namespace ClasseEstudante
 
         public bool notaValida()
         {
-            if(nota > 0 && nota <= 10)
+            if(media > 0 && media <= 10)
             {
                 return true;
             }
@@ -47,11 +47,11 @@ namespace ClasseEstudante
         }
         public void MostrarAtributos()
         {
-         Console.WriteLine($"Nome: {this.Nome} \tNota: {this.Nota}");   
+         Console.WriteLine($"Nome: {this.Nome} \tMédia: {this.Media}");   
         }
         public bool EstaAprovado()
         {
-            if (nota >= 6)
+            if (media >= 6)
             {
                 return true;
             }
