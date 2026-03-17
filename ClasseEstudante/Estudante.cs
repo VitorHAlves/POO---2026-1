@@ -36,15 +36,6 @@ namespace ClasseEstudante
             }
         }
 
-        public bool notaValida()
-        {
-            if(media > 0 && media <= 10)
-            {
-                return true;
-            }
-            else
-                return false;
-        }
         public void MostrarAtributos()
         {
          Console.WriteLine($"Nome: {this.Nome} \tMédia: {this.Media}");   
