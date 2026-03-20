@@ -1,0 +1,15 @@
+/home/vitor/POO---2026-1/ConstrutorClasseAluno/bin/Debug/net10.0/ConstrutorClasseAluno
+/home/vitor/POO---2026-1/ConstrutorClasseAluno/bin/Debug/net10.0/ConstrutorClasseAluno.deps.json
+/home/vitor/POO---2026-1/ConstrutorClasseAluno/bin/Debug/net10.0/ConstrutorClasseAluno.runtimeconfig.json
+/home/vitor/POO---2026-1/ConstrutorClasseAluno/bin/Debug/net10.0/ConstrutorClasseAluno.dll
+/home/vitor/POO---2026-1/ConstrutorClasseAluno/bin/Debug/net10.0/ConstrutorClasseAluno.pdb
+/home/vitor/POO---2026-1/ConstrutorClasseAluno/obj/Debug/net10.0/ConstrutorClasseAluno.GeneratedMSBuildEditorConfig.editorconfig
+/home/vitor/POO---2026-1/ConstrutorClasseAluno/obj/Debug/net10.0/ConstrutorClasseAluno.AssemblyInfoInputs.cache
+/home/vitor/POO---2026-1/ConstrutorClasseAluno/obj/Debug/net10.0/ConstrutorClasseAluno.AssemblyInfo.cs
+/home/vitor/POO---2026-1/ConstrutorClasseAluno/obj/Debug/net10.0/ConstrutorClasseAluno.csproj.CoreCompileInputs.cache
+/home/vitor/POO---2026-1/ConstrutorClasseAluno/obj/Debug/net10.0/ConstrutorClasseAluno.sourcelink.json
+/home/vitor/POO---2026-1/ConstrutorClasseAluno/obj/Debug/net10.0/ConstrutorClasseAluno.dll
+/home/vitor/POO---2026-1/ConstrutorClasseAluno/obj/Debug/net10.0/refint/ConstrutorClasseAluno.dll
+/home/vitor/POO---2026-1/ConstrutorClasseAluno/obj/Debug/net10.0/ConstrutorClasseAluno.pdb
+/home/vitor/POO---2026-1/ConstrutorClasseAluno/obj/Debug/net10.0/ConstrutorClasseAluno.genruntimeconfig.cache
+/home/vitor/POO---2026-1/ConstrutorClasseAluno/obj/Debug/net10.0/ref/ConstrutorClasseAluno.dll
