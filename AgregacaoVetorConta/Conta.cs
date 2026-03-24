@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
 
-namespace AgregracaoVetorConta
+namespace AgregacaoVetorConta
 {
     public class Conta
     {
@@ -11,6 +11,6 @@ namespace AgregracaoVetorConta
         public int Numero { get; set; }
         //Estabelecimento de agregação
         public List<Cliente> VetTitular { get; set; }//generics
-        public double Saldo { get; set; }
+        public double Saldo { get; set; }        
     }
 }

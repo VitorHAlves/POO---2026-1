@@ -3,3 +3,13 @@ C:\Users\aluno\Desktop\POO---2026-1\AgregacaoVetorConta\obj\Debug\net8.0\Agregac
 C:\Users\aluno\Desktop\POO---2026-1\AgregacaoVetorConta\obj\Debug\net8.0\AgregacaoVetorConta.AssemblyInfo.cs
 C:\Users\aluno\Desktop\POO---2026-1\AgregacaoVetorConta\obj\Debug\net8.0\AgregacaoVetorConta.csproj.CoreCompileInputs.cache
 C:\Users\aluno\Desktop\POO---2026-1\AgregacaoVetorConta\obj\Debug\net8.0\AgregacaoVetorConta.sourcelink.json
+C:\Users\aluno\Desktop\POO---2026-1\AgregacaoVetorConta\bin\Debug\net8.0\AgregacaoVetorConta.exe
+C:\Users\aluno\Desktop\POO---2026-1\AgregacaoVetorConta\bin\Debug\net8.0\AgregacaoVetorConta.deps.json
+C:\Users\aluno\Desktop\POO---2026-1\AgregacaoVetorConta\bin\Debug\net8.0\AgregacaoVetorConta.runtimeconfig.json
+C:\Users\aluno\Desktop\POO---2026-1\AgregacaoVetorConta\bin\Debug\net8.0\AgregacaoVetorConta.dll
+C:\Users\aluno\Desktop\POO---2026-1\AgregacaoVetorConta\bin\Debug\net8.0\AgregacaoVetorConta.pdb
+C:\Users\aluno\Desktop\POO---2026-1\AgregacaoVetorConta\obj\Debug\net8.0\AgregacaoVetorConta.dll
+C:\Users\aluno\Desktop\POO---2026-1\AgregacaoVetorConta\obj\Debug\net8.0\refint\AgregacaoVetorConta.dll
+C:\Users\aluno\Desktop\POO---2026-1\AgregacaoVetorConta\obj\Debug\net8.0\AgregacaoVetorConta.pdb
+C:\Users\aluno\Desktop\POO---2026-1\AgregacaoVetorConta\obj\Debug\net8.0\AgregacaoVetorConta.genruntimeconfig.cache
+C:\Users\aluno\Desktop\POO---2026-1\AgregacaoVetorConta\obj\Debug\net8.0\ref\AgregacaoVetorConta.dll

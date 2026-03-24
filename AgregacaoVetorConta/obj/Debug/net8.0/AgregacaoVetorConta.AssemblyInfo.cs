@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("AgregacaoVetorConta")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f0f047b1afb083bd06078d7c73b41bb72505f059")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+92abda13553f0b95ba7a73c5674a554dbaa856c1")]
 [assembly: System.Reflection.AssemblyProductAttribute("AgregacaoVetorConta")]
 [assembly: System.Reflection.AssemblyTitleAttribute("AgregacaoVetorConta")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

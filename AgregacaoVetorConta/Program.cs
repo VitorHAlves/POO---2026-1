@@ -19,7 +19,6 @@ internal class Program
         c1.VetTitular = new List<Cliente>();//sintaxe List
         c1.VetTitular.Add(cli1);
         c1.VetTitular.Add(cli2);
-        c1.MostrarAtributos();
         foreach (var item in c1.VetTitular)
         {
             item.MostrarAtributos();
