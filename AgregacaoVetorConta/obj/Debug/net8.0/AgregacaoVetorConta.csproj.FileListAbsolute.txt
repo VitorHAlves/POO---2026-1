@@ -1,0 +1,5 @@
+C:\Users\aluno\Desktop\POO---2026-1\AgregacaoVetorConta\obj\Debug\net8.0\AgregacaoVetorConta.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aluno\Desktop\POO---2026-1\AgregacaoVetorConta\obj\Debug\net8.0\AgregacaoVetorConta.AssemblyInfoInputs.cache
+C:\Users\aluno\Desktop\POO---2026-1\AgregacaoVetorConta\obj\Debug\net8.0\AgregacaoVetorConta.AssemblyInfo.cs
+C:\Users\aluno\Desktop\POO---2026-1\AgregacaoVetorConta\obj\Debug\net8.0\AgregacaoVetorConta.csproj.CoreCompileInputs.cache
+C:\Users\aluno\Desktop\POO---2026-1\AgregacaoVetorConta\obj\Debug\net8.0\AgregacaoVetorConta.sourcelink.json
