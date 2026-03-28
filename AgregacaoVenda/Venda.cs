@@ -22,6 +22,12 @@ namespace AgregacaoVenda
                 return this.vend;
             }
         }
+        public Venda(Comprador comprad,Vendedor vendedor)
+        {
+            this.Comp = comprad;
+            this.Vend = vendedor;
+            this.VetProd = new List<Produto>();
+        }
 
         public List<Produto> VetProd//encapsulamento 
         {
@@ -48,7 +54,7 @@ namespace AgregacaoVenda
         }
         public void MostrarAtributos()
         {
-         Console.WriteLine($"Comprador: {this.Comp} \tVendedor: {this.Vend} \t Produto {this.vetProd}");   
+         Console.WriteLine($"Comprador: {Comp} \tVendedor: {Vend} \t Produto {vetProd}");   
         }   
     }
 }

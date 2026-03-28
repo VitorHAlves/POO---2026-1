@@ -17,5 +17,9 @@ internal class Program
         comp.MostrarAtributos();
         comp.DiminuirVerba(100);
         comp.MostrarAtributos();
+
+        Venda venda1 = new Venda(comp,vend);
+        venda1.VetProd.Add(prod);
+        venda1.MostrarAtributos();
     }
 }
