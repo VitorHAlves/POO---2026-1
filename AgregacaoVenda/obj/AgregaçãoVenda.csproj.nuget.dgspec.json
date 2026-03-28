@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\aluno\\Desktop\\POO---2026-1\\AgregaçãoVenda\\AgregaçãoVenda.csproj": {}
+    "C:\\Users\\aluno\\Desktop\\POO---2026-1\\AgregacaoVenda\\AgregaçãoVenda.csproj": {}
   },
   "projects": {
-    "C:\\Users\\aluno\\Desktop\\POO---2026-1\\AgregaçãoVenda\\AgregaçãoVenda.csproj": {
+    "C:\\Users\\aluno\\Desktop\\POO---2026-1\\AgregacaoVenda\\AgregaçãoVenda.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\aluno\\Desktop\\POO---2026-1\\AgregaçãoVenda\\AgregaçãoVenda.csproj",
+        "projectUniqueName": "C:\\Users\\aluno\\Desktop\\POO---2026-1\\AgregacaoVenda\\AgregaçãoVenda.csproj",
         "projectName": "AgregaçãoVenda",
-        "projectPath": "C:\\Users\\aluno\\Desktop\\POO---2026-1\\AgregaçãoVenda\\AgregaçãoVenda.csproj",
+        "projectPath": "C:\\Users\\aluno\\Desktop\\POO---2026-1\\AgregacaoVenda\\AgregaçãoVenda.csproj",
         "packagesPath": "C:\\Users\\aluno\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\aluno\\Desktop\\POO---2026-1\\AgregaçãoVenda\\obj\\",
+        "outputPath": "C:\\Users\\aluno\\Desktop\\POO---2026-1\\AgregacaoVenda\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\aluno\\AppData\\Roaming\\NuGet\\NuGet.Config"
