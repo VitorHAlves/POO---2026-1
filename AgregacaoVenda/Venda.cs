@@ -1,6 +1,7 @@
 using System;
 using System.Collections.Generic;
 using System.Linq;
+using System.Runtime.CompilerServices;
 using System.Threading.Tasks;
 
 namespace AgregacaoVenda
@@ -54,7 +55,13 @@ namespace AgregacaoVenda
         }
         public void MostrarAtributos()
         {
-         Console.WriteLine($"Comprador: {Comp} \tVendedor: {Vend} \t Produto {vetProd}");   
+         Console.WriteLine($"Venda para o comprador verba de: {Comp.Verba}");
+         Console.WriteLine($"Vendedor com comissão de:  {Vend.Comissao}");
+         Console.WriteLine("Itens da Venda:");
+         foreach (var i in VetProd)
+            {
+                i.MostrarAtributos();
+            }  
         }   
     }
 }

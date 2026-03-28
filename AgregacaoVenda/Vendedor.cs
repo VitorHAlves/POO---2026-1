@@ -19,7 +19,7 @@ namespace AgregacaoVenda
                 return this.comissao;
             }
         }
-        public void CalcularComissão(double valorVendido)
+        public void CalcularComissao(double valorVendido)
         {
             Comissao = valorVendido * 0.02;
         }
