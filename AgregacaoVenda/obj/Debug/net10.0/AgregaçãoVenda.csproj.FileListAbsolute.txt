@@ -1,0 +1,15 @@
+/home/vitor/POO---2026-1/AgregacaoVenda/bin/Debug/net10.0/AgregaçãoVenda
+/home/vitor/POO---2026-1/AgregacaoVenda/bin/Debug/net10.0/AgregaçãoVenda.deps.json
+/home/vitor/POO---2026-1/AgregacaoVenda/bin/Debug/net10.0/AgregaçãoVenda.runtimeconfig.json
+/home/vitor/POO---2026-1/AgregacaoVenda/bin/Debug/net10.0/AgregaçãoVenda.dll
+/home/vitor/POO---2026-1/AgregacaoVenda/bin/Debug/net10.0/AgregaçãoVenda.pdb
+/home/vitor/POO---2026-1/AgregacaoVenda/obj/Debug/net10.0/AgregaçãoVenda.GeneratedMSBuildEditorConfig.editorconfig
+/home/vitor/POO---2026-1/AgregacaoVenda/obj/Debug/net10.0/AgregaçãoVenda.AssemblyInfoInputs.cache
+/home/vitor/POO---2026-1/AgregacaoVenda/obj/Debug/net10.0/AgregaçãoVenda.AssemblyInfo.cs
+/home/vitor/POO---2026-1/AgregacaoVenda/obj/Debug/net10.0/AgregaçãoVenda.csproj.CoreCompileInputs.cache
+/home/vitor/POO---2026-1/AgregacaoVenda/obj/Debug/net10.0/AgregaçãoVenda.sourcelink.json
+/home/vitor/POO---2026-1/AgregacaoVenda/obj/Debug/net10.0/AgregaçãoVenda.dll
+/home/vitor/POO---2026-1/AgregacaoVenda/obj/Debug/net10.0/refint/AgregaçãoVenda.dll
+/home/vitor/POO---2026-1/AgregacaoVenda/obj/Debug/net10.0/AgregaçãoVenda.pdb
+/home/vitor/POO---2026-1/AgregacaoVenda/obj/Debug/net10.0/AgregaçãoVenda.genruntimeconfig.cache
+/home/vitor/POO---2026-1/AgregacaoVenda/obj/Debug/net10.0/ref/AgregaçãoVenda.dll

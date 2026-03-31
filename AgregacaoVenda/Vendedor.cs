@@ -21,7 +21,7 @@ namespace AgregacaoVenda
         }
         public void CalcularComissao(double valorVendido)
         {
-            Comissao = valorVendido * 0.02;
+            Comissao += valorVendido * 0.02;
         }
 
         public void MostrarAtributos()

@@ -12,7 +12,10 @@ namespace AgregacaoVenda
         {
             set
             {
-                this.verba = value;
+                if(value >= 0)
+                    this.verba = value;
+                else
+                    Console.WriteLine("Verba inválida!");
             }
             get
             {

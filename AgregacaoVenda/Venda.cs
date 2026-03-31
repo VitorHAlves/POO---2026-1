@@ -28,6 +28,14 @@ namespace AgregacaoVenda
             this.Comp = comprad;
             this.Vend = vendedor;
             this.VetProd = vetorProd;
+
+            double total = 0;
+            foreach (var p in VetProd)
+            {
+                total += p.Preco;
+            }
+            this.Comp.DiminuirVerba(total);
+            this.Vend.CalcularComissao(total);
         }
 
         public List<Produto> VetProd//encapsulamento 
@@ -55,20 +63,20 @@ namespace AgregacaoVenda
         }
         public void MostrarAtributos()
         {
-        double totalVenda1 = 0;
-        foreach (var i in VetProd)
+            double total = 0;
+            foreach (var p in VetProd)
+        total += p.Preco;
+
+        Console.WriteLine("Relatório da venda");
+        Console.WriteLine("Produtos:");
+        foreach (var p in VetProd)
         {
-            totalVenda1 += i.Preco;
+            p.MostrarAtributos();
         }
-        Console.WriteLine($"Verba inicial: {comp.Verba}");
-        comp.DiminuirVerba(totalVenda1);
-        vend.CalcularComissao(totalVenda1);
-        
-        Console.WriteLine("Relatório da venda ");
-        Console.WriteLine($"Produtos: {}");
-        Console.WriteLine($"Total da Venda: {totalVenda1}");
+        Console.WriteLine($"Total da Venda: {total}");
         Console.WriteLine($"Verba restante: {comp.Verba}");
         Console.WriteLine($"Comissão do vendedor: {vend.Comissao}");
+
         }   
     }
 }
