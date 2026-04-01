@@ -36,5 +36,17 @@ namespace ComposicaoBanco
         {
             //contas.Add(new ContaCorrente(chequeEspecial));
         }
+        public void AbrirPoupanca()
+        {
+            poups.Add(new Poupanca());
+        }
+        public void IniciarBanco()
+        {
+
+        }
+        public void DeclararFalencia()
+        {
+            ~falencia
+        }
     }
 }

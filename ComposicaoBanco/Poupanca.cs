@@ -20,9 +20,13 @@ namespace ComposicaoBanco
                 this.saldo = value;
             }
         }
+        
         public void Sacar(double valor)
         {
-            saldo -= valor;
+            if (valor <= saldo)
+                saldo -= valor;
+            else
+                Console.WriteLine("Saldo insuficiente!");
         }
         public void Depositar(double valorDeposito)
         {
