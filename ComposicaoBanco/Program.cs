@@ -3,9 +3,9 @@ internal class Program
 {
     private static void Main(string[] args)
     {
-        Poupanca c1 = new Poupanca();
+        ContaCorrente c1 = new ContaCorrente(2000);
         c1.Depositar(500);
-        c1.Sacar(50);
-        c1.GerarRendimento();
+        c1.Sacar(2501);
+        c1.GerarExtrato();
     }
 }

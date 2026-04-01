@@ -34,7 +34,7 @@ namespace ComposicaoBanco
         
         public void AbrirConta()
         {
-            contas.Add(new ContaCorrente(chequeEspecial));
+            //contas.Add(new ContaCorrente(chequeEspecial));
         }
     }
 }
