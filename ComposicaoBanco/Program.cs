@@ -3,9 +3,25 @@ internal class Program
 {
     private static void Main(string[] args)
     {
-        ContaCorrente c1 = new ContaCorrente(2000);
-        c1.Depositar(500);
-        c1.Sacar(2501);
-        c1.GerarExtrato();
+        Banco banco = new Banco();
+        banco.IniciarBanco();
+
+        banco.AbrirConta(500);
+        banco.AbrirConta(300);
+
+        banco.AbrirPoupanca();
+        banco.AbrirPoupanca();
+
+        banco.Contas[0].Depositar(1000);
+        banco.Contas[0].Sacar(200);
+        banco.Contas[0].GerarExtrato();
+
+        banco.Poups[0].Depositar(500);
+        banco.Poups[0].GerarRendimento();
+
+        
+        banco = null;
+        GC.Collect();
+
     }
 }

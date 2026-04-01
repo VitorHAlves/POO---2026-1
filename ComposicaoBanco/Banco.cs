@@ -32,9 +32,9 @@ namespace ComposicaoBanco
             }
         }
         
-        public void AbrirConta()
+        public void AbrirConta(double chequeEspecial)
         {
-            //contas.Add(new ContaCorrente(chequeEspecial));
+            contas.Add(new ContaCorrente(chequeEspecial));
         }
         public void AbrirPoupanca()
         {
@@ -42,11 +42,15 @@ namespace ComposicaoBanco
         }
         public void IniciarBanco()
         {
-
+            contas = new List<ContaCorrente> ();
+            poups = new List<Poupanca>();
         }
-        public void DeclararFalencia()
+
+        ~Banco()
         {
-            ~falencia
+            contas = null;
+            poups = null;
+            Console.WriteLine("Destrutor do banco chamado");
         }
     }
 }

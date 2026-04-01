@@ -1,0 +1,15 @@
+/home/vitor/POO---2026-1/ComposicaoBanco/bin/Debug/net10.0/ComposiçãoBanco
+/home/vitor/POO---2026-1/ComposicaoBanco/bin/Debug/net10.0/ComposiçãoBanco.deps.json
+/home/vitor/POO---2026-1/ComposicaoBanco/bin/Debug/net10.0/ComposiçãoBanco.runtimeconfig.json
+/home/vitor/POO---2026-1/ComposicaoBanco/bin/Debug/net10.0/ComposiçãoBanco.dll
+/home/vitor/POO---2026-1/ComposicaoBanco/bin/Debug/net10.0/ComposiçãoBanco.pdb
+/home/vitor/POO---2026-1/ComposicaoBanco/obj/Debug/net10.0/ComposiçãoBanco.GeneratedMSBuildEditorConfig.editorconfig
+/home/vitor/POO---2026-1/ComposicaoBanco/obj/Debug/net10.0/ComposiçãoBanco.AssemblyInfoInputs.cache
+/home/vitor/POO---2026-1/ComposicaoBanco/obj/Debug/net10.0/ComposiçãoBanco.AssemblyInfo.cs
+/home/vitor/POO---2026-1/ComposicaoBanco/obj/Debug/net10.0/ComposiçãoBanco.csproj.CoreCompileInputs.cache
+/home/vitor/POO---2026-1/ComposicaoBanco/obj/Debug/net10.0/ComposiçãoBanco.sourcelink.json
+/home/vitor/POO---2026-1/ComposicaoBanco/obj/Debug/net10.0/ComposiçãoBanco.dll
+/home/vitor/POO---2026-1/ComposicaoBanco/obj/Debug/net10.0/refint/ComposiçãoBanco.dll
+/home/vitor/POO---2026-1/ComposicaoBanco/obj/Debug/net10.0/ComposiçãoBanco.pdb
+/home/vitor/POO---2026-1/ComposicaoBanco/obj/Debug/net10.0/ComposiçãoBanco.genruntimeconfig.cache
+/home/vitor/POO---2026-1/ComposicaoBanco/obj/Debug/net10.0/ref/ComposiçãoBanco.dll
