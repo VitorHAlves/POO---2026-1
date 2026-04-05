@@ -20,6 +20,13 @@ internal class Program
         banco.Poups[0].GerarRendimento();
 
         
+        banco.Contas[1].Depositar(200);
+        banco.Contas[1].Sacar(600); 
+        banco.Contas[1].GerarExtrato();
+
+
+        banco.Poups[1].Depositar(1000);
+        banco.Poups[1].GerarRendimento();
         banco = null;
         GC.Collect();
 
