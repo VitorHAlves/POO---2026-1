@@ -13,10 +13,19 @@ namespace HerancaCliente
             get { return cnpj; }
             set { cnpj = value; }
         }
-        public void MostrarAtributos()
+        public ClienteJuridico(int codigo, string? nome, int cnpj) : base(codigo,nome)
         {
-            Console.WriteLine($"Código: {Codigo}\tNome: {Nome}\tCNPJ: {cnpj}");
+            Cnpj = cnpj;
         }
-        
+        public ClienteJuridico()
+        {//construtor padrão
+
+        }
+        public void MostrarAtributos()
+        {   //  A palavra base chama o método mostraratributos()
+            // da superclasse
+            base.MostrarAtributos();
+            Console.WriteLine("CNPJ: " + Cnpj);
+        }
     }
 }

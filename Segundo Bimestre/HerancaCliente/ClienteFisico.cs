@@ -9,14 +9,24 @@ namespace HerancaCliente
     public class ClienteFisico : Cliente
     {
         private int rg;
+        public ClienteFisico(int codigo, string? nome, int rg) : base(codigo,nome)
+        {
+            Rg = rg;
+        }
+        public ClienteFisico()
+        {//construtor padrão
+
+        }
         public int Rg       
         {
             get { return rg; }
             set { rg = value; }
         }
         public void MostrarAtributos()
-        {
-            Console.WriteLine($"Código: {Codigo}\tNome: {Nome}\tRG: {rg}");
+        {   //  A palavra base chama o método mostraratributos()
+            // da superclasse
+            base.MostrarAtributos();
+            Console.WriteLine("RG: " + rg);
         }
     }
 }

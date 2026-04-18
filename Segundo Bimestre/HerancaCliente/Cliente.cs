@@ -20,6 +20,15 @@ namespace HerancaCliente
             get{return nome;}
             set{nome = value;}
         }
+        public Cliente()
+        {//construtor padrão
+
+        }
+        public Cliente(int codigo, string nome)
+        {
+            Codigo = codigo;
+            Nome = nome;
+        }
 
         public void MostrarAtributos()
         {
