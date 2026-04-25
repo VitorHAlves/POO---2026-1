@@ -22,7 +22,7 @@ namespace HerancaCliente
             get { return rg; }
             set { rg = value; }
         }
-        public void MostrarAtributos()
+        public override void MostrarAtributos()
         {   //  A palavra base chama o método mostraratributos()
             // da superclasse
             base.MostrarAtributos();
