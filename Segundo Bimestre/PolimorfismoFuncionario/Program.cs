@@ -1,5 +1,6 @@
 ﻿// main ()
 using PolimorfismoFuncionario;
+GerenciadorBonificacao gerenciador = new GerenciadorBonificacao();//instancia do gerenciador
 
 Funcionario f = new Funcionario(1000);
 Console.WriteLine($"Funcionário {f.CalcularBonificacao():c}");
@@ -12,3 +13,10 @@ Console.WriteLine($"Gerente {g.CalcularBonificacao():c}");
 
 Diretor d = new Diretor(1000);
 Console.WriteLine($"Diretor {d.CalcularBonificacao():c}");
+
+gerenciador.TotalizadorBonificacao(f);
+gerenciador.TotalizadorBonificacao(s);
+gerenciador.TotalizadorBonificacao(g);
+gerenciador.TotalizadorBonificacao(d);
+
+Console.WriteLine($"Total de bonificações pagas: {gerenciador.TotalBonificacao:c}");
