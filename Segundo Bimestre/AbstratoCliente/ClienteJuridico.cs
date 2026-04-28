@@ -20,6 +20,11 @@ namespace AbstratoCliente
             {
                 Console.WriteLine("CJ - Idade Validada!");
             }
-        }        
+        }
+        public override void Mostrar()
+        {
+            base.Mostrar();
+            Console.WriteLine($"CNPJ: {Cnpj}");
+        }   
     }
 }

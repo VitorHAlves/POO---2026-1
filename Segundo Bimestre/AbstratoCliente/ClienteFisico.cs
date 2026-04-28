@@ -21,5 +21,10 @@ namespace AbstratoCliente
                 Console.WriteLine("CF - Idade Validada!");
             }
         }
+        public override void Mostrar()
+        {
+            base.Mostrar();
+            Console.WriteLine($"RG: {Rg}");
+        }
     }
 }

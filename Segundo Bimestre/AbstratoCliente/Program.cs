@@ -9,5 +9,11 @@ internal class Program
 
         Teste teste = new Teste();
         teste.AvaliarIdadeCliente(cf);
+        cf.Mostrar();
+
+        ClienteJuridico cj = new ClienteJuridico(2,"Rua sim",55,4544);
+        cj._Endereco = e;
+        teste.AvaliarIdadeCliente(cj);
+        cj.Mostrar();
     }
 }
