@@ -1,0 +1,15 @@
+C:\Users\aluno\Desktop\POO---2026-1\Segundo Bimestre\AbstratoCliente\obj\Debug\net8.0\AbstratoCliente.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aluno\Desktop\POO---2026-1\Segundo Bimestre\AbstratoCliente\obj\Debug\net8.0\AbstratoCliente.AssemblyInfoInputs.cache
+C:\Users\aluno\Desktop\POO---2026-1\Segundo Bimestre\AbstratoCliente\obj\Debug\net8.0\AbstratoCliente.AssemblyInfo.cs
+C:\Users\aluno\Desktop\POO---2026-1\Segundo Bimestre\AbstratoCliente\obj\Debug\net8.0\AbstratoCliente.csproj.CoreCompileInputs.cache
+C:\Users\aluno\Desktop\POO---2026-1\Segundo Bimestre\AbstratoCliente\obj\Debug\net8.0\AbstratoCliente.sourcelink.json
+C:\Users\aluno\Desktop\POO---2026-1\Segundo Bimestre\AbstratoCliente\bin\Debug\net8.0\AbstratoCliente.exe
+C:\Users\aluno\Desktop\POO---2026-1\Segundo Bimestre\AbstratoCliente\bin\Debug\net8.0\AbstratoCliente.deps.json
+C:\Users\aluno\Desktop\POO---2026-1\Segundo Bimestre\AbstratoCliente\bin\Debug\net8.0\AbstratoCliente.runtimeconfig.json
+C:\Users\aluno\Desktop\POO---2026-1\Segundo Bimestre\AbstratoCliente\bin\Debug\net8.0\AbstratoCliente.dll
+C:\Users\aluno\Desktop\POO---2026-1\Segundo Bimestre\AbstratoCliente\bin\Debug\net8.0\AbstratoCliente.pdb
+C:\Users\aluno\Desktop\POO---2026-1\Segundo Bimestre\AbstratoCliente\obj\Debug\net8.0\AbstratoCliente.dll
+C:\Users\aluno\Desktop\POO---2026-1\Segundo Bimestre\AbstratoCliente\obj\Debug\net8.0\refint\AbstratoCliente.dll
+C:\Users\aluno\Desktop\POO---2026-1\Segundo Bimestre\AbstratoCliente\obj\Debug\net8.0\AbstratoCliente.pdb
+C:\Users\aluno\Desktop\POO---2026-1\Segundo Bimestre\AbstratoCliente\obj\Debug\net8.0\AbstratoCliente.genruntimeconfig.cache
+C:\Users\aluno\Desktop\POO---2026-1\Segundo Bimestre\AbstratoCliente\obj\Debug\net8.0\ref\AbstratoCliente.dll
