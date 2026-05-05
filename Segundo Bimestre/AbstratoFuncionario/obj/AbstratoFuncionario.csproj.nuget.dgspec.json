@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\aluno\\Desktop\\POO---2026-1\\Segundo Bimestre\\PolimorfismoFuncionario\\PolimorfismoFuncionario.csproj": {}
+    "C:\\Users\\aluno\\Desktop\\POO---2026-1\\Segundo Bimestre\\AbstratoFuncionario\\AbstratoFuncionario.csproj": {}
   },
   "projects": {
-    "C:\\Users\\aluno\\Desktop\\POO---2026-1\\Segundo Bimestre\\PolimorfismoFuncionario\\PolimorfismoFuncionario.csproj": {
+    "C:\\Users\\aluno\\Desktop\\POO---2026-1\\Segundo Bimestre\\AbstratoFuncionario\\AbstratoFuncionario.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\aluno\\Desktop\\POO---2026-1\\Segundo Bimestre\\PolimorfismoFuncionario\\PolimorfismoFuncionario.csproj",
-        "projectName": "PolimorfismoFuncionario",
-        "projectPath": "C:\\Users\\aluno\\Desktop\\POO---2026-1\\Segundo Bimestre\\PolimorfismoFuncionario\\PolimorfismoFuncionario.csproj",
+        "projectUniqueName": "C:\\Users\\aluno\\Desktop\\POO---2026-1\\Segundo Bimestre\\AbstratoFuncionario\\AbstratoFuncionario.csproj",
+        "projectName": "AbstratoFuncionario",
+        "projectPath": "C:\\Users\\aluno\\Desktop\\POO---2026-1\\Segundo Bimestre\\AbstratoFuncionario\\AbstratoFuncionario.csproj",
         "packagesPath": "C:\\Users\\aluno\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\aluno\\Desktop\\POO---2026-1\\Segundo Bimestre\\PolimorfismoFuncionario\\obj\\",
+        "outputPath": "C:\\Users\\aluno\\Desktop\\POO---2026-1\\Segundo Bimestre\\AbstratoFuncionario\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\aluno\\AppData\\Roaming\\NuGet\\NuGet.Config"

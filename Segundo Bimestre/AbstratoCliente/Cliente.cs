@@ -47,6 +47,7 @@ namespace AbstratoCliente
         public virtual void Mostrar()
         {
             Console.WriteLine($"Nome: {Nome}\tIdade: {Idade}");
+            _Endereco.Mostrar();
         }
     }
 }

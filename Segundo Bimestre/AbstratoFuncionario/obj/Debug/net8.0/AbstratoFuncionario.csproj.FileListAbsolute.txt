@@ -1,0 +1,15 @@
+C:\Users\aluno\Desktop\POO---2026-1\Segundo Bimestre\AbstratoFuncionario\bin\Debug\net8.0\AbstratoFuncionario.exe
+C:\Users\aluno\Desktop\POO---2026-1\Segundo Bimestre\AbstratoFuncionario\bin\Debug\net8.0\AbstratoFuncionario.deps.json
+C:\Users\aluno\Desktop\POO---2026-1\Segundo Bimestre\AbstratoFuncionario\bin\Debug\net8.0\AbstratoFuncionario.runtimeconfig.json
+C:\Users\aluno\Desktop\POO---2026-1\Segundo Bimestre\AbstratoFuncionario\bin\Debug\net8.0\AbstratoFuncionario.dll
+C:\Users\aluno\Desktop\POO---2026-1\Segundo Bimestre\AbstratoFuncionario\bin\Debug\net8.0\AbstratoFuncionario.pdb
+C:\Users\aluno\Desktop\POO---2026-1\Segundo Bimestre\AbstratoFuncionario\obj\Debug\net8.0\AbstratoFuncionario.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aluno\Desktop\POO---2026-1\Segundo Bimestre\AbstratoFuncionario\obj\Debug\net8.0\AbstratoFuncionario.AssemblyInfoInputs.cache
+C:\Users\aluno\Desktop\POO---2026-1\Segundo Bimestre\AbstratoFuncionario\obj\Debug\net8.0\AbstratoFuncionario.AssemblyInfo.cs
+C:\Users\aluno\Desktop\POO---2026-1\Segundo Bimestre\AbstratoFuncionario\obj\Debug\net8.0\AbstratoFuncionario.csproj.CoreCompileInputs.cache
+C:\Users\aluno\Desktop\POO---2026-1\Segundo Bimestre\AbstratoFuncionario\obj\Debug\net8.0\AbstratoFuncionario.sourcelink.json
+C:\Users\aluno\Desktop\POO---2026-1\Segundo Bimestre\AbstratoFuncionario\obj\Debug\net8.0\AbstratoFuncionario.dll
+C:\Users\aluno\Desktop\POO---2026-1\Segundo Bimestre\AbstratoFuncionario\obj\Debug\net8.0\refint\AbstratoFuncionario.dll
+C:\Users\aluno\Desktop\POO---2026-1\Segundo Bimestre\AbstratoFuncionario\obj\Debug\net8.0\AbstratoFuncionario.pdb
+C:\Users\aluno\Desktop\POO---2026-1\Segundo Bimestre\AbstratoFuncionario\obj\Debug\net8.0\AbstratoFuncionario.genruntimeconfig.cache
+C:\Users\aluno\Desktop\POO---2026-1\Segundo Bimestre\AbstratoFuncionario\obj\Debug\net8.0\ref\AbstratoFuncionario.dll
