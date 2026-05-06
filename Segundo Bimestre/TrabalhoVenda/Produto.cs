@@ -11,6 +11,19 @@ namespace TrabalhoVenda
         public string? Nome { get; set; }
         public double Preco { get; set; }
         public int Estoque { get; set; }
+        
+        public Produto(long codigo, string? nome, double preco, int estoque)
+        {
+            Codigo = codigo;
+            Nome = nome;
+            Preco = preco;
+            Estoque = estoque;
+        }
+
+        public void ExibirInfo()
+        {
+            Console.WriteLine($"Código: {Codigo} | Nome: {Nome} | Preço: {Preco:c} | Estoque: {Estoque}");
+        }
 
     }
 }

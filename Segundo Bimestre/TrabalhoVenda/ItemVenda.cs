@@ -28,6 +28,13 @@ namespace TrabalhoVenda
                 return Preco * Quantidade;
             }
         }
+        public void ExibirItem()
+        {
+
+            Console.WriteLine($"  {Produto.Nome} x{Quantidade} - R$ {Subtotal:F2}");
+            if (Quantidade >= 50)
+                Console.WriteLine("  ★ Desconto de 20% aplicado (atacado)!");
+        }
         
     }
 }

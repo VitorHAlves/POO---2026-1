@@ -33,5 +33,15 @@ namespace TrabalhoVenda
             }
             Total = acumulador;
         }
+        public void ImprimirCupom()
+        {
+            Console.WriteLine("=== CUPOM FISCAL ===");
+            Console.WriteLine($"Data: {Data}");
+            foreach (var item in Itens)
+                item.ExibirItem();
+            Console.WriteLine($"TOTAL: {Total:c}");
+            if (FormaPagamento != null)
+                Console.WriteLine($"PAGAMENTO: {FormaPagamento.Descricao()}");
+        }
     }
 }
