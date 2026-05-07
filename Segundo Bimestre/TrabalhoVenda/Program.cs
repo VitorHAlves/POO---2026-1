@@ -65,7 +65,64 @@ internal class Program
                     }
                     venda.ImprimirCupom();
                     break;
+                
+                case "3":
+                    if (venda.Itens.Count == 0)
+                    {
+                        Console.WriteLine("Nenhum item na venda!");
+                        break;
+                    }
+                    venda.ImprimirCupom();
+                    Console.WriteLine("---Forma de Pagamento---");
+                    Console.WriteLine("---1. Espécie---");
+                    Console.WriteLine("---2. Cheque---");
+                    Console.WriteLine("---3. Cartão---");
+                    Console.Write("Opção: ");
+                    string? opcaoPgto = Console.ReadLine();
+                    string data = DateTime.Now.ToString("dd/MM/yyyy");
 
+                    switch (opcaoPgto)
+                    {
+                        case "1":
+                            Console.Write ("Valor entregue: ");
+                            double quantia = Convert.ToDouble(Console.ReadLine());
+                            if (quantia < venda.Total)
+                            {
+                                Console.WriteLine("Valor insuficiente!");
+                                break;
+                            }
+                            venda.FormaPagamento = new Especie(data,venda.Total,quantia);
+                            break;
+                        
+                        case "2":
+                            Console.Write("Número do cheque: ");
+                            long numero = Convert.ToInt64(Console.ReadLine());
+                            Console.Write("Data de depósito: ");
+                            string? dataDeposito = Console.ReadLine();
+                            venda.FormaPagamento = new Cheque(data, venda.Total, numero, dataDeposito);
+                            break;
+                        
+                        case "3":
+                            Console.Write("Dados do cartão: ");
+                            string? dadosCartao = Console.ReadLine();
+                            venda.FormaPagamento = new Cartao(data, venda.Total, dadosCartao, 0);
+                            break;
+
+                        default:
+                            Console.WriteLine("Opção inválida!");
+                            break;
+                    }
+                    if (venda.FormaPagamento != null)
+                    {
+                        venda.ImprimirCupom();
+                        Console.WriteLine("Venda finalizada!");
+                        venda = new Venda (DateTime.Now.ToString("dd/MM/yyyy"));
+                    }
+                    break;
+                    
+                case "0":
+                    sair = true;
+                    break;
             }
         }
     }

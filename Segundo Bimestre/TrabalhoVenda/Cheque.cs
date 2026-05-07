@@ -11,11 +11,11 @@ namespace TrabalhoVenda
         public string? DataDeposito { get; set; }
         public int Situacao { get; set; }
 
-        public Cheque(string? data, double total, long numero, string? dataDeposito,int situacao) : base(data,total)
+        public Cheque(string? data, double total, long numero, string? dataDeposito) : base(data,total)
         {
             Numero = numero;
             DataDeposito = dataDeposito;
-            Situacao = situacao;
+            Situacao = 0;
         }
 
         public override string Descricao()
