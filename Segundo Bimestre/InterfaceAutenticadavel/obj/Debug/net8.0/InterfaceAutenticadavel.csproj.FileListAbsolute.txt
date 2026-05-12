@@ -1,0 +1,15 @@
+C:\Users\aluno\Desktop\POO---2026-1\Segundo Bimestre\InterfaceAutenticadavel\bin\Debug\net8.0\InterfaceAutenticadavel.exe
+C:\Users\aluno\Desktop\POO---2026-1\Segundo Bimestre\InterfaceAutenticadavel\bin\Debug\net8.0\InterfaceAutenticadavel.deps.json
+C:\Users\aluno\Desktop\POO---2026-1\Segundo Bimestre\InterfaceAutenticadavel\bin\Debug\net8.0\InterfaceAutenticadavel.runtimeconfig.json
+C:\Users\aluno\Desktop\POO---2026-1\Segundo Bimestre\InterfaceAutenticadavel\bin\Debug\net8.0\InterfaceAutenticadavel.dll
+C:\Users\aluno\Desktop\POO---2026-1\Segundo Bimestre\InterfaceAutenticadavel\bin\Debug\net8.0\InterfaceAutenticadavel.pdb
+C:\Users\aluno\Desktop\POO---2026-1\Segundo Bimestre\InterfaceAutenticadavel\obj\Debug\net8.0\InterfaceAutenticadavel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aluno\Desktop\POO---2026-1\Segundo Bimestre\InterfaceAutenticadavel\obj\Debug\net8.0\InterfaceAutenticadavel.AssemblyInfoInputs.cache
+C:\Users\aluno\Desktop\POO---2026-1\Segundo Bimestre\InterfaceAutenticadavel\obj\Debug\net8.0\InterfaceAutenticadavel.AssemblyInfo.cs
+C:\Users\aluno\Desktop\POO---2026-1\Segundo Bimestre\InterfaceAutenticadavel\obj\Debug\net8.0\InterfaceAutenticadavel.csproj.CoreCompileInputs.cache
+C:\Users\aluno\Desktop\POO---2026-1\Segundo Bimestre\InterfaceAutenticadavel\obj\Debug\net8.0\InterfaceAutenticadavel.sourcelink.json
+C:\Users\aluno\Desktop\POO---2026-1\Segundo Bimestre\InterfaceAutenticadavel\obj\Debug\net8.0\InterfaceAutenticadavel.dll
+C:\Users\aluno\Desktop\POO---2026-1\Segundo Bimestre\InterfaceAutenticadavel\obj\Debug\net8.0\refint\InterfaceAutenticadavel.dll
+C:\Users\aluno\Desktop\POO---2026-1\Segundo Bimestre\InterfaceAutenticadavel\obj\Debug\net8.0\InterfaceAutenticadavel.pdb
+C:\Users\aluno\Desktop\POO---2026-1\Segundo Bimestre\InterfaceAutenticadavel\obj\Debug\net8.0\InterfaceAutenticadavel.genruntimeconfig.cache
+C:\Users\aluno\Desktop\POO---2026-1\Segundo Bimestre\InterfaceAutenticadavel\obj\Debug\net8.0\ref\InterfaceAutenticadavel.dll

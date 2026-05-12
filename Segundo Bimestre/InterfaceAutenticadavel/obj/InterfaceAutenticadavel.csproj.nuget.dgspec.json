@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\aluno\\Desktop\\POO---2026-1\\Segundo Bimestre\\TrabalhoVenda\\TrabalhoVenda.csproj": {}
+    "C:\\Users\\aluno\\Desktop\\POO---2026-1\\Segundo Bimestre\\InterfaceAutenticadavel\\InterfaceAutenticadavel.csproj": {}
   },
   "projects": {
-    "C:\\Users\\aluno\\Desktop\\POO---2026-1\\Segundo Bimestre\\TrabalhoVenda\\TrabalhoVenda.csproj": {
+    "C:\\Users\\aluno\\Desktop\\POO---2026-1\\Segundo Bimestre\\InterfaceAutenticadavel\\InterfaceAutenticadavel.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\aluno\\Desktop\\POO---2026-1\\Segundo Bimestre\\TrabalhoVenda\\TrabalhoVenda.csproj",
-        "projectName": "TrabalhoVenda",
-        "projectPath": "C:\\Users\\aluno\\Desktop\\POO---2026-1\\Segundo Bimestre\\TrabalhoVenda\\TrabalhoVenda.csproj",
+        "projectUniqueName": "C:\\Users\\aluno\\Desktop\\POO---2026-1\\Segundo Bimestre\\InterfaceAutenticadavel\\InterfaceAutenticadavel.csproj",
+        "projectName": "InterfaceAutenticadavel",
+        "projectPath": "C:\\Users\\aluno\\Desktop\\POO---2026-1\\Segundo Bimestre\\InterfaceAutenticadavel\\InterfaceAutenticadavel.csproj",
         "packagesPath": "C:\\Users\\aluno\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\aluno\\Desktop\\POO---2026-1\\Segundo Bimestre\\TrabalhoVenda\\obj\\",
+        "outputPath": "C:\\Users\\aluno\\Desktop\\POO---2026-1\\Segundo Bimestre\\InterfaceAutenticadavel\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\aluno\\AppData\\Roaming\\NuGet\\NuGet.Config"

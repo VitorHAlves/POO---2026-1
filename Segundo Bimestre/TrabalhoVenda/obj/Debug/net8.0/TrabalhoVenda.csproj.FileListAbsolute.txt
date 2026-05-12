@@ -1,0 +1,15 @@
+C:\Users\aluno\Desktop\POO---2026-1\Segundo Bimestre\TrabalhoVenda\bin\Debug\net8.0\TrabalhoVenda.exe
+C:\Users\aluno\Desktop\POO---2026-1\Segundo Bimestre\TrabalhoVenda\bin\Debug\net8.0\TrabalhoVenda.deps.json
+C:\Users\aluno\Desktop\POO---2026-1\Segundo Bimestre\TrabalhoVenda\bin\Debug\net8.0\TrabalhoVenda.runtimeconfig.json
+C:\Users\aluno\Desktop\POO---2026-1\Segundo Bimestre\TrabalhoVenda\bin\Debug\net8.0\TrabalhoVenda.dll
+C:\Users\aluno\Desktop\POO---2026-1\Segundo Bimestre\TrabalhoVenda\bin\Debug\net8.0\TrabalhoVenda.pdb
+C:\Users\aluno\Desktop\POO---2026-1\Segundo Bimestre\TrabalhoVenda\obj\Debug\net8.0\TrabalhoVenda.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aluno\Desktop\POO---2026-1\Segundo Bimestre\TrabalhoVenda\obj\Debug\net8.0\TrabalhoVenda.AssemblyInfoInputs.cache
+C:\Users\aluno\Desktop\POO---2026-1\Segundo Bimestre\TrabalhoVenda\obj\Debug\net8.0\TrabalhoVenda.AssemblyInfo.cs
+C:\Users\aluno\Desktop\POO---2026-1\Segundo Bimestre\TrabalhoVenda\obj\Debug\net8.0\TrabalhoVenda.csproj.CoreCompileInputs.cache
+C:\Users\aluno\Desktop\POO---2026-1\Segundo Bimestre\TrabalhoVenda\obj\Debug\net8.0\TrabalhoVenda.sourcelink.json
+C:\Users\aluno\Desktop\POO---2026-1\Segundo Bimestre\TrabalhoVenda\obj\Debug\net8.0\TrabalhoVenda.dll
+C:\Users\aluno\Desktop\POO---2026-1\Segundo Bimestre\TrabalhoVenda\obj\Debug\net8.0\refint\TrabalhoVenda.dll
+C:\Users\aluno\Desktop\POO---2026-1\Segundo Bimestre\TrabalhoVenda\obj\Debug\net8.0\TrabalhoVenda.pdb
+C:\Users\aluno\Desktop\POO---2026-1\Segundo Bimestre\TrabalhoVenda\obj\Debug\net8.0\TrabalhoVenda.genruntimeconfig.cache
+C:\Users\aluno\Desktop\POO---2026-1\Segundo Bimestre\TrabalhoVenda\obj\Debug\net8.0\ref\TrabalhoVenda.dll
