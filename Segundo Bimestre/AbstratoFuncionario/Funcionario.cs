@@ -7,9 +7,11 @@ namespace AbstratoFuncionario
 {
     public abstract class Funcionario
     {
+        //declaração dos atributos
         protected int codigo;
         protected string? nome;
         protected double salario;
+        //declaração dos métodos
         public Funcionario(int codigo, string? nome, double salario)
         {
             Codigo = codigo;
@@ -18,7 +20,7 @@ namespace AbstratoFuncionario
         }
         public virtual void Mostrar()
         {
-            Console.WriteLine($"Código: {Codigo}\tNome: {Nome}\tSalário: {Salario:c}");
+            Console.WriteLine($"Código: {Codigo} Nome: {Nome} Salário {Salario:c}");
         }
         public abstract double CalcularSalario(int diasUteis);
         
