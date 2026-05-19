@@ -1,0 +1,5 @@
+C:\Users\aluno\Desktop\POO---2026-1\Segundo Bimestre\ExercicioSRP\obj\Debug\net8.0\ExercicioSRP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aluno\Desktop\POO---2026-1\Segundo Bimestre\ExercicioSRP\obj\Debug\net8.0\ExercicioSRP.AssemblyInfoInputs.cache
+C:\Users\aluno\Desktop\POO---2026-1\Segundo Bimestre\ExercicioSRP\obj\Debug\net8.0\ExercicioSRP.AssemblyInfo.cs
+C:\Users\aluno\Desktop\POO---2026-1\Segundo Bimestre\ExercicioSRP\obj\Debug\net8.0\ExercicioSRP.csproj.CoreCompileInputs.cache
+C:\Users\aluno\Desktop\POO---2026-1\Segundo Bimestre\ExercicioSRP\obj\Debug\net8.0\ExercicioSRP.sourcelink.json
