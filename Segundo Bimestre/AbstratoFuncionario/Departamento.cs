@@ -14,10 +14,18 @@ namespace AbstratoFuncionario
         {
             Codigo = codigo;
             Nome = nome;
+            VetF = new List<Funcionario>();
         }
         public void Admitir(Funcionario f)
         {
             VetF.Add(f);
+        }
+        public void MostrarQtdeDependentesFuncionario()
+        {
+            foreach (var f in VetF)
+            {
+                Console.WriteLine($"{f.Nome} tem {f.CalcularTotalDependentes()} dependentes");
+            }
         }
         public void Listar()
         {
