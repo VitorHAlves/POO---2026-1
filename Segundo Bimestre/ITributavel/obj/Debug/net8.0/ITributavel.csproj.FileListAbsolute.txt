@@ -1,0 +1,15 @@
+C:\Users\aluno\Desktop\POO---2026-1\Segundo Bimestre\ITributavel\obj\Debug\net8.0\ITributavel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aluno\Desktop\POO---2026-1\Segundo Bimestre\ITributavel\obj\Debug\net8.0\ITributavel.AssemblyInfoInputs.cache
+C:\Users\aluno\Desktop\POO---2026-1\Segundo Bimestre\ITributavel\obj\Debug\net8.0\ITributavel.AssemblyInfo.cs
+C:\Users\aluno\Desktop\POO---2026-1\Segundo Bimestre\ITributavel\obj\Debug\net8.0\ITributavel.csproj.CoreCompileInputs.cache
+C:\Users\aluno\Desktop\POO---2026-1\Segundo Bimestre\ITributavel\obj\Debug\net8.0\ITributavel.sourcelink.json
+C:\Users\aluno\Desktop\POO---2026-1\Segundo Bimestre\ITributavel\bin\Debug\net8.0\ITributavel.exe
+C:\Users\aluno\Desktop\POO---2026-1\Segundo Bimestre\ITributavel\bin\Debug\net8.0\ITributavel.deps.json
+C:\Users\aluno\Desktop\POO---2026-1\Segundo Bimestre\ITributavel\bin\Debug\net8.0\ITributavel.runtimeconfig.json
+C:\Users\aluno\Desktop\POO---2026-1\Segundo Bimestre\ITributavel\bin\Debug\net8.0\ITributavel.dll
+C:\Users\aluno\Desktop\POO---2026-1\Segundo Bimestre\ITributavel\bin\Debug\net8.0\ITributavel.pdb
+C:\Users\aluno\Desktop\POO---2026-1\Segundo Bimestre\ITributavel\obj\Debug\net8.0\ITributavel.dll
+C:\Users\aluno\Desktop\POO---2026-1\Segundo Bimestre\ITributavel\obj\Debug\net8.0\refint\ITributavel.dll
+C:\Users\aluno\Desktop\POO---2026-1\Segundo Bimestre\ITributavel\obj\Debug\net8.0\ITributavel.pdb
+C:\Users\aluno\Desktop\POO---2026-1\Segundo Bimestre\ITributavel\obj\Debug\net8.0\ITributavel.genruntimeconfig.cache
+C:\Users\aluno\Desktop\POO---2026-1\Segundo Bimestre\ITributavel\obj\Debug\net8.0\ref\ITributavel.dll
