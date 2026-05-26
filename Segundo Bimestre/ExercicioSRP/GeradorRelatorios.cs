@@ -7,9 +7,9 @@ namespace ExercicioSRP
 {
     public class GeradorRelatorios
     {
-        public string GerarRelatorio()
+        public string GerarRelatorio(Conta conta)
         {
-            return $"Titular: {Titular}\tSaldo: {Saldo:c}";
+            return $"Titular: {conta.Titular}\tSaldo: {conta.Saldo:c}";
         }
     }
 }

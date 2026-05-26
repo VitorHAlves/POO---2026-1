@@ -8,9 +8,9 @@ namespace ExercicioSRP
     public class ValidadadorUsuarios
     {
 
-        public string ValidarUsuario(string nome)
+        public bool ValidarUsuario(Conta conta, string? nome)
         {
-            return  == nome;
+            return conta.Titular == nome;
         }
     }
 }

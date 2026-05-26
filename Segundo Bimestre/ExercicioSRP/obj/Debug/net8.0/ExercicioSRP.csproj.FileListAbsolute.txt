@@ -3,3 +3,13 @@ C:\Users\aluno\Desktop\POO---2026-1\Segundo Bimestre\ExercicioSRP\obj\Debug\net8
 C:\Users\aluno\Desktop\POO---2026-1\Segundo Bimestre\ExercicioSRP\obj\Debug\net8.0\ExercicioSRP.AssemblyInfo.cs
 C:\Users\aluno\Desktop\POO---2026-1\Segundo Bimestre\ExercicioSRP\obj\Debug\net8.0\ExercicioSRP.csproj.CoreCompileInputs.cache
 C:\Users\aluno\Desktop\POO---2026-1\Segundo Bimestre\ExercicioSRP\obj\Debug\net8.0\ExercicioSRP.sourcelink.json
+C:\Users\aluno\Desktop\POO---2026-1\Segundo Bimestre\ExercicioSRP\bin\Debug\net8.0\ExercicioSRP.exe
+C:\Users\aluno\Desktop\POO---2026-1\Segundo Bimestre\ExercicioSRP\bin\Debug\net8.0\ExercicioSRP.deps.json
+C:\Users\aluno\Desktop\POO---2026-1\Segundo Bimestre\ExercicioSRP\bin\Debug\net8.0\ExercicioSRP.runtimeconfig.json
+C:\Users\aluno\Desktop\POO---2026-1\Segundo Bimestre\ExercicioSRP\bin\Debug\net8.0\ExercicioSRP.dll
+C:\Users\aluno\Desktop\POO---2026-1\Segundo Bimestre\ExercicioSRP\bin\Debug\net8.0\ExercicioSRP.pdb
+C:\Users\aluno\Desktop\POO---2026-1\Segundo Bimestre\ExercicioSRP\obj\Debug\net8.0\ExercicioSRP.dll
+C:\Users\aluno\Desktop\POO---2026-1\Segundo Bimestre\ExercicioSRP\obj\Debug\net8.0\refint\ExercicioSRP.dll
+C:\Users\aluno\Desktop\POO---2026-1\Segundo Bimestre\ExercicioSRP\obj\Debug\net8.0\ExercicioSRP.pdb
+C:\Users\aluno\Desktop\POO---2026-1\Segundo Bimestre\ExercicioSRP\obj\Debug\net8.0\ExercicioSRP.genruntimeconfig.cache
+C:\Users\aluno\Desktop\POO---2026-1\Segundo Bimestre\ExercicioSRP\obj\Debug\net8.0\ref\ExercicioSRP.dll
