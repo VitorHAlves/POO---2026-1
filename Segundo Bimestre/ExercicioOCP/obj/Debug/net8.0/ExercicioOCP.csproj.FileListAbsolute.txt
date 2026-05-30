@@ -1,0 +1,15 @@
+C:\Users\aluno\Desktop\POO---2026-1\Segundo Bimestre\ExercicioOCP\obj\Debug\net8.0\ExercicioOCP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aluno\Desktop\POO---2026-1\Segundo Bimestre\ExercicioOCP\obj\Debug\net8.0\ExercicioOCP.AssemblyInfoInputs.cache
+C:\Users\aluno\Desktop\POO---2026-1\Segundo Bimestre\ExercicioOCP\obj\Debug\net8.0\ExercicioOCP.AssemblyInfo.cs
+C:\Users\aluno\Desktop\POO---2026-1\Segundo Bimestre\ExercicioOCP\obj\Debug\net8.0\ExercicioOCP.csproj.CoreCompileInputs.cache
+C:\Users\aluno\Desktop\POO---2026-1\Segundo Bimestre\ExercicioOCP\obj\Debug\net8.0\ExercicioOCP.sourcelink.json
+C:\Users\aluno\Desktop\POO---2026-1\Segundo Bimestre\ExercicioOCP\bin\Debug\net8.0\ExercicioOCP.exe
+C:\Users\aluno\Desktop\POO---2026-1\Segundo Bimestre\ExercicioOCP\bin\Debug\net8.0\ExercicioOCP.deps.json
+C:\Users\aluno\Desktop\POO---2026-1\Segundo Bimestre\ExercicioOCP\bin\Debug\net8.0\ExercicioOCP.runtimeconfig.json
+C:\Users\aluno\Desktop\POO---2026-1\Segundo Bimestre\ExercicioOCP\bin\Debug\net8.0\ExercicioOCP.dll
+C:\Users\aluno\Desktop\POO---2026-1\Segundo Bimestre\ExercicioOCP\bin\Debug\net8.0\ExercicioOCP.pdb
+C:\Users\aluno\Desktop\POO---2026-1\Segundo Bimestre\ExercicioOCP\obj\Debug\net8.0\ExercicioOCP.dll
+C:\Users\aluno\Desktop\POO---2026-1\Segundo Bimestre\ExercicioOCP\obj\Debug\net8.0\refint\ExercicioOCP.dll
+C:\Users\aluno\Desktop\POO---2026-1\Segundo Bimestre\ExercicioOCP\obj\Debug\net8.0\ExercicioOCP.pdb
+C:\Users\aluno\Desktop\POO---2026-1\Segundo Bimestre\ExercicioOCP\obj\Debug\net8.0\ExercicioOCP.genruntimeconfig.cache
+C:\Users\aluno\Desktop\POO---2026-1\Segundo Bimestre\ExercicioOCP\obj\Debug\net8.0\ref\ExercicioOCP.dll
