@@ -1,0 +1,24 @@
+--Herança
+Especialização -> cria novas classes diferentes uma das outras, dadas as necessidades do sistema.
+
+Generalização -> Quando a classe derivada pode usar o que ela tem, e mais o que vem da classe acima.
+Protected na classe base.
+
+Base -> pode ser usada em dois momentos, uma para usar na chamada do construtor-> base()
+ou base.Metodo() -> chama o metodo que esta na classe base
+
+Polimorfismo estático
+Polimorfismo dinâmico muda a lógica de programação utilizando as palavras reservadas
+virtual na super classe e override no metodo da subclasse que passa por modificação.
+Classe Abstrata -> Não pode ser instânciada, pode ter metodos abstratos, caso tenha
+apenas há a assinatura do método.
+Relacionamento de dependência é o relacionamento + fraco q tem, n tem uma relação estrutural.
+Associação
+
+Interfaces -> Assinaturas de metodos que são implicitamente publicos e abstratos.
+ex: string metodo (int codigo);
+SOLID->
+1o-> Responsabilidade única de uma classe.
+2o -> Princípio aberto e fechado. -> sugestão de utilizar interfaces para a extensão do sistema
+3o -> Utilização correta da Herança
+5o -> Inversão da dependência -> não depender de uma classe, depender talvez de uma interface.
